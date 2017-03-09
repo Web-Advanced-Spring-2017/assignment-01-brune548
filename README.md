@@ -11,10 +11,12 @@ From the the task array, it adds a new task and updates the savetask function.
 The CSS is from materialize.
 The delete button calls from the taskList, gets the taskNumber and deletes and updates the savetask function. 
 
-
+## Screens
+![Reference Screens](desktop/1)
+![Reference Screens](desktop/2)
+![Reference Screens](desktop/3)
 
 
 ## Resources
 
-* [Materialize CSS](http://materializecss.com/)
-
+* [Materialize CSS](http://materializecss.com/
